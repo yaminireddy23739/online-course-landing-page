@@ -1,5 +1,7 @@
 # Online Course Landing Page
 
+This is my Day 2
+
 A simple and responsive online course landing page built using **HTML and CSS** as part of my frontend learning journey.
 
 ## Features
