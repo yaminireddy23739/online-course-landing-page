@@ -1,6 +1,6 @@
 # Online Course Landing Page
 
-This is my Day 2
+This is my Day 2 project of a 15-day Web Development Challenge
 
 A simple and responsive online course landing page built using **HTML and CSS** as part of my frontend learning journey.
 
